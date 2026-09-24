@@ -1,1 +1,24 @@
-# My First Project 
+# My First Project
+
+README.md
+
+
+
+\# My First Project
+
+
+
+このプロジェクトはGitの学習用プロジェクトです。
+
+
+
+\## 説明
+
+このファイルはGitのバージョン管理を学ぶために作成されました。
+
+
+
+\## 作成日
+
+2026年3月11日
+
